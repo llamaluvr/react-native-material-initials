@@ -68,4 +68,4 @@ const styles = StyleSheet.create({
   }
 });
 
-module.exports = NativeIniticon;
+export default NativeIniticon;
